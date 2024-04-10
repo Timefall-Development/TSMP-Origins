@@ -1,0 +1,104 @@
+{
+  "values":[
+    {
+      "id": "bakery:rolling_pin",
+      "required": false
+    },
+    {
+      "id": "bakery:small_cooking_pot",
+      "required": false
+    },
+    {
+      "id": "bakery:baguette",
+      "required": false
+    },
+    {
+      "id": "bakingdelight:wooden_whisk",
+      "required": false
+    },
+    {
+      "id": "bakingdelight:stone_whisk",
+      "required": false
+    },
+    {
+      "id": "bakingdelight:copper_whisk",
+      "required": false
+    },
+    {
+      "id": "bakingdelight:iron_whisk",
+      "required": false
+    },
+    {
+      "id": "bakingdelight:golden_whisk",
+      "required": false
+    },
+    {
+      "id": "bakingdelight:diamond_whisk",
+      "required": false
+    },
+    {
+      "id": "bakingdelight:netherite_whisk",
+      "required": false
+    },
+    {
+      "id": "candlelight:cooking_pot",
+      "required": false
+    },
+    {
+      "id": "candlelight:cooking_pan",
+      "required": false
+    },
+    {
+      "id": "candlelight:table_set",
+      "required": false
+    },
+    {
+      "id": "candlelight:table_bowl",
+      "required": false
+    },
+    {
+      "id": "candlelight:glass",
+      "required": false
+    },
+    {
+      "id": "croptopia:cooking_pot",
+      "required": false
+    },
+    {
+      "id": "croptopia:food_press",
+      "required": false
+    },
+    {
+      "id": "croptopia:frying_pan",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cooking_pot",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:skillet",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:cutting_board",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:tea_kettle",
+      "required": false
+    },
+    {
+      "id": "herbalbrews:copper_tea_kettle",
+      "required": false
+    },
+    {
+      "id": "imbued_deco:tiny_cauldron",
+      "required": false
+    },
+    {
+      "id": "ubesdelight:rolling_pin_wood",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+	"type":"origins:attribute",
+	"modifier":{
+		"attribute":"minecraft:generic.max_health",
+		"operation":"addition",
+		"value":-10
+	},
+	"update_health":true,
+	"interval":100,
+	"condition":{
+		"type":"origins:and",
+		"conditions":[
+			{
+				"type":"origins:fluid_height",
+				"fluid":"minecraft:water",
+				"comparison":">",
+				"compare_to":0,
+				"inverted":true
+			},
+			{
+				"type":"origins:in_rain",
+				"inverted":true
+			},
+			{
+				"type":"origins:biome",
+				"condition":{
+					"type":"origins:temperature",
+					"comparison":">=",
+					"compare_to":1.9
+				}
+			}
+		]
+	}
+}

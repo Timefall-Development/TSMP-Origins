@@ -1,7 +1,15 @@
 {
   "powers": [
-
+    "tsmp_origins:fast_mine",
+    "tsmp_origins:jockey",
+    "tsmp_origins:jump",
+    "tsmp_origins:knowing",
+    "tsmp_origins:pocket",
+    "tsmp_origins:rats_eyes",
+    "tsmp_origins:sun_weakness",
+    "tsmp_origins:uncomfortable",
+    "tsmp_origins:weak"
   ],
-  "icon": "thing:thing",
+  "icon": "amethyst_imbuement:fzzyhammer",
   "impact": 2
 }

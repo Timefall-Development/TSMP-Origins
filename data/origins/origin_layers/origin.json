@@ -1,6 +1,21 @@
 {
   "allow_random": true,
   "origins": [
-
+    "adventurous_spirit",
+    "bardic_phoenix",
+    "bnuuy",
+    "dwagon",
+    "elephant",
+    "hammer",
+    "hex_witch",
+    "ice_seraph",
+    "laputanian",
+    "lich",
+    "mage",
+    "mole_dwarf",
+    "nature_spirit",
+    "priest",
+    "tijger",
+    "wither_wight"
   ]
 }

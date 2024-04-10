@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "tsmp_origins:clear",
+    "tsmp_origins:cure",
+    "tsmp_origins:fragile",
+    "tsmp_origins:illumine",
+    "tsmp_origins:light_affinity",
+    "tsmp_origins:melee",
+    "tsmp_origins:nether"
+  ],
+  "icon": "paladins:priest_spell_book",
+  "impact": 3
+}

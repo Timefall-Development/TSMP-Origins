@@ -1,0 +1,14 @@
+{
+  "powers": [
+    "tsmp_origins:fire_charge",
+    "tsmp_origins:fire_charge_a",
+    "tsmp_origins:fire_immune",
+    "tsmp_origins:fire_particles",
+    "tsmp_origins:unstable",
+    "tsmp_origins:unwieldy",
+    "tsmp_origins:water_hater",
+    "tsmp_origins:witchy"
+  ],
+  "icon": "plushables:wizard_plushable",
+  "impact": 2
+}

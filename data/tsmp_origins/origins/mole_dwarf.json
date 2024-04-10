@@ -1,0 +1,15 @@
+{
+  "powers": [
+    "tsmp_origins:axe_god",
+    "tsmp_origins:bulky",
+    "tsmp_origins:heliophobia",
+    "tsmp_origins:knowing",
+    "tsmp_origins:long_jump",
+    "tsmp_origins:no_elytra",
+    "tsmp_origins:pocket",
+    "tsmp_origins:shrooom_eater",
+    "tsmp_origins:unwieldy"
+  ],
+  "icon": "minecraft:wooden_shovel",
+  "impact": 3
+}

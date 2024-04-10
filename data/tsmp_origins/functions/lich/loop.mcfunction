@@ -1,0 +1,1 @@
+team join lesserundead @e[type=tsmp_origins:lesser_undead,team=!lesserundead]

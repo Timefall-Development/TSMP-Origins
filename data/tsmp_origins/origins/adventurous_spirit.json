@@ -1,0 +1,14 @@
+{
+  "powers": [
+    "tsmp_origins:aquatic",
+    "tsmp_origins:light_armor",
+    "tsmp_origins:melee",
+    "tsmp_origins:night_vision",
+    "tsmp_origins:no_fall_damage",
+    "tsmp_origins:runaway",
+    "tsmp_origins:weak",
+    "tsmp_origins:winged"
+  ],
+  "icon": "naturescompass:naturescompass",
+  "impact": 2
+}

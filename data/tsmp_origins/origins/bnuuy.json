@@ -1,0 +1,16 @@
+{
+  "powers": [
+    "tsmp_origins:cookie_master",
+    "tsmp_origins:fast_mine",
+    "tsmp_origins:favorite_food",
+    "tsmp_origins:jump_boost",
+    "tsmp_origins:knife_lover",
+    "tsmp_origins:nimble",
+    "tsmp_origins:pounce",
+    "tsmp_origins:slow_swimmer",
+    "tsmp_origins:sugar_expert",
+    "tsmp_origins:weak"
+  ],
+  "icon": "minecraft:cookie",
+  "impact": 2
+}

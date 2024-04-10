@@ -1,0 +1,11 @@
+{
+  "powers": [
+    "tsmp_origins:heavy_body",
+    "tsmp_origins:large_appetite",
+    "tsmp_origins:ram",
+    "tsmp_origins:slowness",
+    "tsmp_origins:tough"
+  ],
+  "icon": "perfectplushies:elephant_plushie",
+  "impact": 2
+}

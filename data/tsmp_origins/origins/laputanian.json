@@ -1,0 +1,18 @@
+{
+  "powers": [
+    "tsmp_origins:entity_glow",
+    "tsmp_origins:fresh_air",
+    "tsmp_origins:jump_boost",
+    "tsmp_origins:launch",
+    "tsmp_origins:night_boost",
+    "tsmp_origins:night_vision",
+    "tsmp_origins:nimble_limbs",
+    "tsmp_origins:scorching_sun",
+    "tsmp_origins:nimble_limbs",
+    "tsmp_origins:scorching_sun",
+    "tsmp_origins:slow_falling",
+    "tsmp_origins:toggle"
+  ],
+  "icon": "soulsweapons:moonstone",
+  "impact": 2
+}

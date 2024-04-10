@@ -1,0 +1,23 @@
+{
+  "powers": [
+    "tsmp_origins:cold_adapted_cold_biome",
+    "tsmp_origins:cold_adapted_hot_biome",
+    "tsmp_origins:cold_nap",
+    "tsmp_origins:eat_powder_snow_bucket",
+    "tsmp_origins:eat_snow",
+    "tsmp_origins:freeze_immune",
+    "tsmp_origins:frost_breath",
+    "tsmp_origins:frost_walker",
+    "tsmp_origins:harvest_snow",
+    "tsmp_origins:harvest_snow_layer",
+    "tsmp_origins:heal_near_ice",
+    "tsmp_origins:melting",
+    "tsmp_origins:multi_snowballs",
+    "tsmp_origins:pyrophobia",
+    "tsmp_origins:snowballs_damage",
+    "tsmp_origins:snowflakes_particles",
+    "tsmp_origins:snowy_sprinter"
+  ],
+  "icon": "simplehats:snowmanbaby",
+  "impact": 3
+}

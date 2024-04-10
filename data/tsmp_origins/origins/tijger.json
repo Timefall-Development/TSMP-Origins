@@ -1,0 +1,11 @@
+{
+  "powers": [
+    "tsmp_origins:acrobatics",
+    "tsmp_origins:dislike_of_water",
+    "tsmp_origins:jump",
+    "tsmp_origins:night_vision",
+    "tsmp_origins:nocturnal"
+  ],
+  "icon": "plushables:tiger_plushable",
+  "impact": 3
+}
