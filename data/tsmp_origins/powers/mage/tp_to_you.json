@@ -45,8 +45,7 @@
 					"ingredient":{
 						"item":"minecraft:nether_star"
 					}
-				},
-				"inverted":true
+				}
 			}
 		]
 	}

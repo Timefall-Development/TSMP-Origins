@@ -1,15 +1,15 @@
 {
   "powers": [
-    "tsmp_origins:cookie_master",
-    "tsmp_origins:fast_mine",
-    "tsmp_origins:favorite_food",
-    "tsmp_origins:jump_boost",
-    "tsmp_origins:knife_lover",
-    "tsmp_origins:nimble",
-    "tsmp_origins:pounce",
-    "tsmp_origins:slow_swimmer",
-    "tsmp_origins:sugar_expert",
-    "tsmp_origins:weak"
+    "tsmp_origins:bnuuy/cookie_master",
+    "tsmp_origins:bnuuy/fast_mine",
+    "tsmp_origins:bnuuy/favorite_food",
+    "tsmp_origins:bnuuy/jump_boost",
+    "tsmp_origins:bnuuy/knife_lover",
+    "tsmp_origins:bnuuy/nimble",
+    "tsmp_origins:bnuuy/pounce",
+    "tsmp_origins:bnuuy/slow_swimmer",
+    "tsmp_origins:bnuuy/sugar_expert",
+    "tsmp_origins:bnuuy/weak"
   ],
   "icon": "minecraft:cookie",
   "impact": 2

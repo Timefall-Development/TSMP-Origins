@@ -1,15 +1,15 @@
 {
   "powers": [
-    "tsmp_origins:born_in_fire",
-    "tsmp_origins:lava_breath",
-    "tsmp_origins:light_armor",
-    "tsmp_origins:natural_strength",
-    "tsmp_origins:slow_swim",
-    "tsmp_origins:slowness_in_cold",
-    "tsmp_origins:water_vulnerability",
-    "tsmp_origins:weakness_in_water",
-    "tsmp_origins:winged"
+    "tsmp_origins:dwagon/born_in_fire",
+    "tsmp_origins:dwagon/lava_breath",
+    "tsmp_origins:dwagon/light_armor",
+    "tsmp_origins:dwagon/natural_strength",
+    "tsmp_origins:dwagon/slow_swim",
+    "tsmp_origins:dwagon/slowness_in_cold",
+    "tsmp_origins:dwagon/water_vulnerability",
+    "tsmp_origins:dwagon/weakness_in_water",
+    "tsmp_origins:dwagon/winged"
   ],
-  "icon": "plushables:dragon_plushable",
+  "icon": "minecraft:iron_axe",
   "impact": 2
 }

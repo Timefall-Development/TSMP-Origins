@@ -4,6 +4,13 @@
 		"type":"origins:set_on_fire",
 		"duration":4
 	},
-	"cooldown":100
+	"cooldown":100,
+	"condition": {
+		"type": "origins:equipped_item",
+		"slot": "mainhand",
+		"item_condition": {
+			"type": "origins:empty"
+		}
+	}
 }
   

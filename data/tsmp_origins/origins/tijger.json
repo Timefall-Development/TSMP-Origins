@@ -1,11 +1,11 @@
 {
   "powers": [
-    "tsmp_origins:acrobatics",
-    "tsmp_origins:dislike_of_water",
-    "tsmp_origins:jump",
-    "tsmp_origins:night_vision",
-    "tsmp_origins:nocturnal"
+    "tsmp_origins:tijger/acrobatics",
+    "tsmp_origins:tijger/dislike_of_water",
+    "tsmp_origins:tijger/jump",
+    "tsmp_origins:tijger/night_vision",
+    "tsmp_origins:tijger/nocturnal"
   ],
-  "icon": "plushables:tiger_plushable",
+  "icon": "minecraft:ocelot_spawn_egg",
   "impact": 3
 }

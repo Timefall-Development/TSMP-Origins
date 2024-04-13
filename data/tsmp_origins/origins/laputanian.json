@@ -1,18 +1,16 @@
 {
   "powers": [
-    "tsmp_origins:entity_glow",
-    "tsmp_origins:fresh_air",
-    "tsmp_origins:jump_boost",
-    "tsmp_origins:launch",
-    "tsmp_origins:night_boost",
-    "tsmp_origins:night_vision",
-    "tsmp_origins:nimble_limbs",
-    "tsmp_origins:scorching_sun",
-    "tsmp_origins:nimble_limbs",
-    "tsmp_origins:scorching_sun",
-    "tsmp_origins:slow_falling",
-    "tsmp_origins:toggle"
+    "tsmp_origins:laputanian/fresh_air",
+    "tsmp_origins:laputanian/jump_boost",
+    "tsmp_origins:laputanian/launch",
+    "tsmp_origins:laputanian/night_boost",
+    "tsmp_origins:laputanian/night_vision",
+    "tsmp_origins:laputanian/nimble_limbs",
+    "tsmp_origins:laputanian/scorching_sun",
+    "tsmp_origins:laputanian/nimble_limbs",
+    "tsmp_origins:laputanian/scorching_sun",
+    "tsmp_origins:laputanian/slow_falling"
   ],
-  "icon": "soulsweapons:moonstone",
+  "icon": "minecraft:clock",
   "impact": 2
 }

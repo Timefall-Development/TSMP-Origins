@@ -1,0 +1,12 @@
+{
+    "powers": [
+      "tsmp_origins:werewolf/consequences_crescent",
+      "tsmp_origins:werewolf/consequences_gibbous",
+      "tsmp_origins:werewolf/consequences_new",
+      "tsmp_origins:werewolf/consequences_quarter",
+      "tsmp_origins:werewolf/consequences_werewolf_form"
+    ],
+    "icon": "minecraft:wolf_spawn_egg",
+    "impact": 3
+  }
+  

@@ -1,7 +1,7 @@
 {
 	"type":"origins:active_self",
 	"key":"key.origins.primary_active",
-	"cooldown":60,
+	"cooldown":120,
 	"entity_action":{
 		"type":"origins:and",
 		"actions":[

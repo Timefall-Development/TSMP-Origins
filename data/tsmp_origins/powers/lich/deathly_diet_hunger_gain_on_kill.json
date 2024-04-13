@@ -1,18 +1,27 @@
 {
-	"type":"origins:self_action_on_kill",
-	"entity_action":{
-		"type":"origins:and",
-		"actions":[
-			{
-				"type":"origins:feed",
-				"food":6,
-				"saturation":2
-			},
-			{
-				"type":"origins:execute_command",
-				"command":"playsound minecraft:entity.evoker.prepare_summon player @a ~ ~ ~ 1 2"
-			}
-		]
+	"type": "origins:multiple",
+	"no_eating": {
+		"type": "origins:prevent_item_use",
+		"item_condition": {
+			"type": "origins:food"
+		}
+	},
+	"deathly_diet_hunger_gain_on_kill": {
+		"type":"origins:self_action_on_kill",
+		"entity_action": {
+			"type": "origins:and",
+			"actions": [
+				{
+					"type": "origins:feed",
+					"food": 6,
+					"saturation": 2
+				},
+				{
+					"type": "origins:execute_command",
+					"command": "playsound minecraft:entity.evoker.prepare_summon player @a ~ ~ ~ 1 2"
+				}
+			]
+		}
 	},
 	"cooldown":100,
 	"hidden":true

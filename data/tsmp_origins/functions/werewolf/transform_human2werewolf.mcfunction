@@ -1,0 +1,1 @@
+execute if predicate tsmp_origins:is_waxing_crescent run transformation set @s bewitchment:werewolf

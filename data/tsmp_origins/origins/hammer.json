@@ -1,15 +1,15 @@
 {
   "powers": [
-    "tsmp_origins:fast_mine",
-    "tsmp_origins:jockey",
-    "tsmp_origins:jump",
-    "tsmp_origins:knowing",
-    "tsmp_origins:pocket",
-    "tsmp_origins:rats_eyes",
-    "tsmp_origins:sun_weakness",
-    "tsmp_origins:uncomfortable",
-    "tsmp_origins:weak"
+    "tsmp_origins:hammer/fast_mine",
+    "tsmp_origins:hammer/jockey",
+    "tsmp_origins:hammer/jump",
+    "tsmp_origins:hammer/knowing",
+    "tsmp_origins:hammer/pocket",
+    "tsmp_origins:hammer/rats_eyes",
+    "tsmp_origins:hammer/sun_weakness",
+    "tsmp_origins:hammer/uncomfortable",
+    "tsmp_origins:hammer/weak"
   ],
-  "icon": "amethyst_imbuement:fzzyhammer",
+  "icon": "minecraft:iron_boots",
   "impact": 2
 }

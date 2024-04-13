@@ -11,7 +11,9 @@
       },
       {
         "type": "origins:play_sound",
-        "sound": "minecraft:entity.hurt"
+        "sound": "minecraft:entity.parrot.hurt",
+        "volume": 1.0,
+        "pitch": 0.1
       }
     ]
   }

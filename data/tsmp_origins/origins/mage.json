@@ -1,13 +1,12 @@
 {
   "powers": [
-    "tsmp_origins:flot",
-    "tsmp_origins:fragile",
-    "tsmp_origins:no_bow",
-    "tsmp_origins:telekinesis",
-    "tsmp_origins:teleport",
-    "tsmp_origins:tp_to_you",
-    "tsmp_origins:water_loathing"
+    "tsmp_origins:mage/float",
+    "tsmp_origins:mage/fragile",
+    "tsmp_origins:mage/no_bow",
+    "tsmp_origins:mage/teleport",
+    "tsmp_origins:mage/tp_to_you",
+    "tsmp_origins:mage/water_loathing"
   ],
-  "icon": "wizards:wand_novice",
+  "icon": "minecraft:acacia_fence",
   "impact": 3
 }

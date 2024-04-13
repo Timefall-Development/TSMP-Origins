@@ -1,5 +1,6 @@
 {
   "values": [
-    "tsmp_origins:lich/load"
+    "tsmp_origins:lich/load",
+    "tsmp_origins:werewolf/load"
   ]
 }

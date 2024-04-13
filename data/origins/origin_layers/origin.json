@@ -1,21 +1,22 @@
 {
   "allow_random": true,
   "origins": [
-    "adventurous_spirit",
-    "bardic_phoenix",
-    "bnuuy",
-    "dwagon",
-    "elephant",
-    "hammer",
-    "hex_witch",
-    "ice_seraph",
-    "laputanian",
-    "lich",
-    "mage",
-    "mole_dwarf",
-    "nature_spirit",
-    "priest",
-    "tijger",
-    "wither_wight"
+    "tsmp_origins:adventurous_spirit",
+    "tsmp_origins:bardic_phoenix",
+    "tsmp_origins:bnuuy",
+    "tsmp_origins:dwagon",
+    "tsmp_origins:elephant",
+    "tsmp_origins:hammer",
+    "tsmp_origins:hex_witch",
+    "tsmp_origins:ice_seraph",
+    "tsmp_origins:laputanian",
+    "tsmp_origins:lich",
+    "tsmp_origins:mage",
+    "tsmp_origins:mole_dwarf",
+    "tsmp_origins:nature_spirit",
+    "tsmp_origins:priest",
+    "tsmp_origins:tijger",
+    "tsmp_origins:werewolf",
+    "tsmp_origins:wither_wight"
   ]
 }

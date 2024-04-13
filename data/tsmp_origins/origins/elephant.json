@@ -1,11 +1,11 @@
 {
   "powers": [
-    "tsmp_origins:heavy_body",
-    "tsmp_origins:large_appetite",
-    "tsmp_origins:ram",
-    "tsmp_origins:slowness",
-    "tsmp_origins:tough"
+    "tsmp_origins:elephant/heavy_body",
+    "tsmp_origins:elephant/large_appetite",
+    "tsmp_origins:elephant/ram",
+    "tsmp_origins:elephant/slowness",
+    "tsmp_origins:elephant/tough"
   ],
-  "icon": "perfectplushies:elephant_plushie",
+  "icon": "minecraft:iron_block",
   "impact": 2
 }

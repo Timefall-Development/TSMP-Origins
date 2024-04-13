@@ -1,14 +1,15 @@
 {
   "powers": [
-    "tsmp_origins:axe_god",
-    "tsmp_origins:bulky",
-    "tsmp_origins:heliophobia",
-    "tsmp_origins:knowing",
-    "tsmp_origins:long_jump",
-    "tsmp_origins:no_elytra",
-    "tsmp_origins:pocket",
-    "tsmp_origins:shrooom_eater",
-    "tsmp_origins:unwieldy"
+    "tsmp_origins:mole_dwarf/fast_mine",
+    "tsmp_origins:mole_dwarf/axe_god",
+    "tsmp_origins:mole_dwarf/bulky",
+    "tsmp_origins:mole_dwarf/heliophobia",
+    "tsmp_origins:mole_dwarf/knowing",
+    "tsmp_origins:mole_dwarf/long_jump",
+    "tsmp_origins:mole_dwarf/no_elytra",
+    "tsmp_origins:mole_dwarf/pocket",
+    "tsmp_origins:mole_dwarf/shrooom_eater",
+    "tsmp_origins:mole_dwarf/unwieldy"
   ],
   "icon": "minecraft:wooden_shovel",
   "impact": 3

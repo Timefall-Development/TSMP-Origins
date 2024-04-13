@@ -2,10 +2,10 @@
 	"type":"origins:action_over_time",
 	"entity_action":{
 		"type":"origins:execute_command",
-		"command":"function origins-plus-plus:shifter/slowfall"
+		"command":"function tsmp_origins:werewolf/transform_human2werewolf"
 	},
 	"interval":20,
-	"condition":{
+    "condition":{
 		"type":"origins:daytime",
 		"inverted":true
 	}

@@ -1,17 +1,17 @@
 {
   "powers": [
-    "tsmp_origins:brittle_bones",
-    "tsmp_origins:cactus_questions",
-    "tsmp_origins:cold_here",
-    "tsmp_origins:dislike_of_water",
-    "tsmp_origins:heat_adept",
-    "tsmp_origins:light_armor",
-    "tsmp_origins:particles",
-    "tsmp_origins:second",
-    "tsmp_origins:spicy_hands",
-    "tsmp_origins:why",
-    "tsmp_origins:winged"
+    "tsmp_origins:bardic_phoenix/brittle_bones",
+    "tsmp_origins:bardic_phoenix/cactus_questions",
+    "tsmp_origins:bardic_phoenix/cold_here",
+    "tsmp_origins:bardic_phoenix/dislike_of_water",
+    "tsmp_origins:bardic_phoenix/heat_adept",
+    "tsmp_origins:bardic_phoenix/light_armor",
+    "tsmp_origins:bardic_phoenix/fire_particles",
+    "tsmp_origins:bardic_phoenix/second",
+    "tsmp_origins:bardic_phoenix/spicy_hands",
+    "tsmp_origins:bardic_phoenix/why",
+    "tsmp_origins:bardic_phoenix/winged"
   ],
-  "icon": "mythicmounts:firebird_feather3",
+  "icon": "minecraft:feather",
   "impact": 3
 }

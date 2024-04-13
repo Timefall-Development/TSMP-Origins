@@ -1,14 +1,14 @@
 {
   "powers": [
-    "tsmp_origins:aquatic",
-    "tsmp_origins:light_armor",
-    "tsmp_origins:melee",
-    "tsmp_origins:night_vision",
-    "tsmp_origins:no_fall_damage",
-    "tsmp_origins:runaway",
-    "tsmp_origins:weak",
-    "tsmp_origins:winged"
+    "tsmp_origins:adventurous_spirit/aquatic",
+    "tsmp_origins:adventurous_spirit/light_armor",
+    "tsmp_origins:adventurous_spirit/melee",
+    "tsmp_origins:adventurous_spirit/night_vision",
+    "tsmp_origins:adventurous_spirit/no_fall_damage",
+    "tsmp_origins:adventurous_spirit/runaway",
+    "tsmp_origins:adventurous_spirit/weak",
+    "tsmp_origins:adventurous_spirit/winged"
   ],
-  "icon": "naturescompass:naturescompass",
+  "icon": "minecraft:compass",
   "impact": 2
 }
