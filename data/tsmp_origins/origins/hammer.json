@@ -1,8 +1,8 @@
 {
   "powers": [
+    "origins:vegetarian",
     "tsmp_origins:hammer/fast_mine",
     "tsmp_origins:hammer/jockey",
-    "tsmp_origins:hammer/jump",
     "tsmp_origins:hammer/knowing",
     "tsmp_origins:hammer/pocket",
     "tsmp_origins:hammer/rats_eyes",
@@ -10,6 +10,6 @@
     "tsmp_origins:hammer/uncomfortable",
     "tsmp_origins:hammer/weak"
   ],
-  "icon": "minecraft:iron_boots",
+  "icon": "amethyst_imbuement:fzzyhammer",
   "impact": 2
 }

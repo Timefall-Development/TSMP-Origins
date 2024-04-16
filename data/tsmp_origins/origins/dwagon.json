@@ -1,5 +1,6 @@
 {
   "powers": [
+    "origins:carnivore",
     "tsmp_origins:dwagon/born_in_fire",
     "tsmp_origins:dwagon/lava_breath",
     "tsmp_origins:dwagon/light_armor",
@@ -7,9 +8,9 @@
     "tsmp_origins:dwagon/slow_swim",
     "tsmp_origins:dwagon/slowness_in_cold",
     "tsmp_origins:dwagon/water_vulnerability",
-    "tsmp_origins:dwagon/weakness_in_water",
+    "tsmp_origins:dwagon/weakness_in_cold",
     "tsmp_origins:dwagon/winged"
   ],
-  "icon": "minecraft:iron_axe",
+  "icon": "plushables:dragon_plushable",
   "impact": 2
 }

@@ -2,19 +2,9 @@
 	"type":"origins:night_vision",
 	"strength":0.4,
 	"condition":{
-		"type":"origins:and",
-		"conditions":[
-			{
-				"type":"origins:submerged_in",
-				"fluid":"minecraft:water",
-				"inverted":true
-			},
-			{
-				"type":"origins:resource",
-				"resource":"origins-plus-plus:shifter/shift_bar",
-				"comparison":"==",
-				"compare_to":5
-			}
-		]
-	}
+		"type":"origins:brightness",
+		"comparison":"<=",
+		"compare_to":0.4
+	},
+	"hidden":true
 }

@@ -9,6 +9,6 @@
     "tsmp_origins:adventurous_spirit/weak",
     "tsmp_origins:adventurous_spirit/winged"
   ],
-  "icon": "minecraft:compass",
+  "icon": "naturescompass:naturescompass",
   "impact": 2
 }

@@ -1,6 +1,12 @@
 {
   "values": [
-    "tsmp_origins:lich/load",
-    "tsmp_origins:werewolf/load"
+    {
+      "id": "tsmp_origins:lich/load",
+      "required": false
+    },
+    {
+      "id": "tsmp_origins:werewolf/load",
+      "required": false
+    }
   ]
 }

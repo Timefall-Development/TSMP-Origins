@@ -11,9 +11,9 @@
 	"cooldown":40,
 	"condition": {
 		"type": "origins:equipped_item",
-		"slot": "mainhand",
+		"equipment_slot": "mainhand",
 		"item_condition": {
-			"type": "origins:empty"
+			"type": "minecraft:air"
 		}
 	}
 }

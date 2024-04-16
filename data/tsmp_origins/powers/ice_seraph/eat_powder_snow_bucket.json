@@ -26,7 +26,7 @@
 		"item_condition":{
 			"type":"origins:ingredient",
 			"ingredient":{
-				"item":"minecraft:snow_block"
+				"item":"minecraft:powder_snow_bucket"
 			}
 		}
 	}

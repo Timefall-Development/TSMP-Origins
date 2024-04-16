@@ -1,2 +1,1 @@
-team empty werewolfable
-team join werewolf
+execute if predicate tsmp_origins:is_new_moon run transformation set @s bewitchment:human

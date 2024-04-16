@@ -9,6 +9,6 @@
     "tsmp_origins:hex_witch/water_hater",
     "tsmp_origins:hex_witch/witchy"
   ],
-  "icon": "minecraft:stick",
+  "icon": "plushables:wizard_plushable",
   "impact": 2
 }

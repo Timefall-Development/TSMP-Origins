@@ -29,6 +29,6 @@
     "tsmp_origins:nature_spirit/water_breathing",
     "tsmp_origins:nature_spirit/water_falling"
   ],
-  "icon": "minecraft:fern",
+  "icon": "cottage-craft:echo_fairymoss",
   "impact": 3
 }

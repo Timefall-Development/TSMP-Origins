@@ -1,0 +1,16 @@
+{
+    "powers": [
+      "tsmp_origins:elven_adventurer/brittle_bones",
+      "tsmp_origins:elven_adventurer/climbing",
+      "tsmp_origins:elven_adventurer/dash",
+      "tsmp_origins:elven_adventurer/fast_metabolism",
+      "tsmp_origins:elven_adventurer/relatives",
+      "tsmp_origins:elven_adventurer/sink_in_water",
+      "tsmp_origins:elven_adventurer/strong_ankles",
+      "tsmp_origins:elven_adventurer/tailwind",
+      "tsmp_origins:elven_adventurer/travel_pouch"
+    ],
+    "icon": "minecraft:iron_sword",
+    "impact": 2
+  }
+  

@@ -3,10 +3,10 @@
     "tsmp_origins:lich/deathly_diet_health_gain_on_hit",
     "tsmp_origins:lich/deathly_diet_hunger_gain_on_kill",
     "tsmp_origins:lich/decomposer",
+    "tsmp_origins:lich/everlasting_weakness",
     "tsmp_origins:lich/exiled",
     "tsmp_origins:lich/flammable",
     "tsmp_origins:lich/ignore_water",
-    "tsmp_origins:lich/melee",
     "tsmp_origins:lich/mob_ally",
     "tsmp_origins:lich/night_vision",
     "tsmp_origins:lich/pure_steel_no_gold",
@@ -18,6 +18,6 @@
     "tsmp_origins:lich/water_falling",
     "tsmp_origins:lich/why"
   ],
-  "icon": "minecraft:bone",
+  "icon": "soulsweapons:iron_skull",
   "impact": 3
 }

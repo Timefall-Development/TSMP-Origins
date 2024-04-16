@@ -8,6 +8,6 @@
     "tsmp_origins:priest/melee",
     "tsmp_origins:priest/nether"
   ],
-  "icon": "minecraft:tuff",
+  "icon": "paladins:priest_spell_book",
   "impact": 3
 }

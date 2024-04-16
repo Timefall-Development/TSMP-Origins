@@ -9,6 +9,5 @@
 			"type": "origins:heal",
 			"amount": 2
 		}
-	},
-	"cooldown":100
+	}
 }

@@ -1,0 +1,16 @@
+{
+    "powers": [
+      "tsmp_origins:bread/crisp_outside",
+      "tsmp_origins:bread/delicious",
+      "tsmp_origins:bread/dense",
+      "tsmp_origins:bread/fluffy_inside",
+      "tsmp_origins:bread/fragile",
+      "tsmp_origins:bread/staling_action",
+      "tsmp_origins:bread/staling_resource",
+      "tsmp_origins:bread/the_bubbles",
+      "tsmp_origins:bread/unwieldy"
+    ],
+    "icon": "minecraft:bread",
+    "impact": 2
+  }
+  

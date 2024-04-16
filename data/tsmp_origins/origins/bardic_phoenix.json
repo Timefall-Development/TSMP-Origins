@@ -8,10 +8,10 @@
     "tsmp_origins:bardic_phoenix/light_armor",
     "tsmp_origins:bardic_phoenix/fire_particles",
     "tsmp_origins:bardic_phoenix/second",
-    "tsmp_origins:bardic_phoenix/spicy_hands",
+    "tsmp_origins:bardic_phoenix/tea_fan",
     "tsmp_origins:bardic_phoenix/why",
     "tsmp_origins:bardic_phoenix/winged"
   ],
-  "icon": "minecraft:feather",
+  "icon": "mythicmounts:firebird_feather3",
   "impact": 3
 }

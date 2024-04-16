@@ -1,9 +1,10 @@
 {
-	"type":"origins:multiple",
-	"effects":{
+	"type":"origins:action_over_time",
+	"entity_action":{
 		"type":"origins:execute_command",
-		"command":"transformation set @s bewitchment:human"
+		"command":"function tsmp_origins:werewolf/transform_werewolf2human"
 	},
+	"interval": 20,
 	"condition":{
 		"type":"origins:and",
 		"conditions": [

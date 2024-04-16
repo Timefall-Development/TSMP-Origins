@@ -1,0 +1,6 @@
+{
+	"type":"origins:inventory",
+	"title":"container.elven_adventurer.title",
+	"drop_on_death":true,
+	"key":"key.origins.secondary_active"
+}

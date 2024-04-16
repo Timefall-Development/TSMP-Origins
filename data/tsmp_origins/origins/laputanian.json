@@ -1,5 +1,7 @@
 {
   "powers": [
+    "origins:vegetarian",
+    "origins:fresh_air",
     "tsmp_origins:laputanian/fresh_air",
     "tsmp_origins:laputanian/jump_boost",
     "tsmp_origins:laputanian/launch",
@@ -7,10 +9,9 @@
     "tsmp_origins:laputanian/night_vision",
     "tsmp_origins:laputanian/nimble_limbs",
     "tsmp_origins:laputanian/scorching_sun",
-    "tsmp_origins:laputanian/nimble_limbs",
-    "tsmp_origins:laputanian/scorching_sun",
-    "tsmp_origins:laputanian/slow_falling"
+    "tsmp_origins:laputanian/slow_falling",
+    "tsmp_origins:laputanian/toggle"
   ],
-  "icon": "minecraft:clock",
+  "icon": "soulsweapons:moonstone",
   "impact": 2
 }

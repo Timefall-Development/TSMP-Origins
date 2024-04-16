@@ -1,5 +1,6 @@
 {
     "powers": [
+      "origins:carnivore",
       "tsmp_origins:werewolf/consequences_crescent",
       "tsmp_origins:werewolf/consequences_gibbous",
       "tsmp_origins:werewolf/consequences_new",

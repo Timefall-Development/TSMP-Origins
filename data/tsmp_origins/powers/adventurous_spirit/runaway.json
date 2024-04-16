@@ -6,7 +6,8 @@
 	"effect":{
 		"effect":"minecraft:speed",
 		"show_particles":false,
-		"show_icon":false
+		"show_icon":false,
+		"amplifier":1
 	},
 	"condition":{
 		"type":"origins:dimension",

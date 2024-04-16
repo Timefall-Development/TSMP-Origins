@@ -7,6 +7,6 @@
     "tsmp_origins:mage/tp_to_you",
     "tsmp_origins:mage/water_loathing"
   ],
-  "icon": "minecraft:acacia_fence",
+  "icon": "wizards:wand_novice",
   "impact": 3
 }

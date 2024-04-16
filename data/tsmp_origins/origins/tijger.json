@@ -1,11 +1,16 @@
 {
   "powers": [
+    "origins:carnivore",
+    "origins:velvet_paws",
+    "origins:scare_creepers",
+    "origins:nine_lives",
     "tsmp_origins:tijger/acrobatics",
     "tsmp_origins:tijger/dislike_of_water",
     "tsmp_origins:tijger/jump",
     "tsmp_origins:tijger/night_vision",
-    "tsmp_origins:tijger/nocturnal"
+    "tsmp_origins:tijger/roar_action",
+    "tsmp_origins:tijger/sharp_claws"
   ],
-  "icon": "minecraft:ocelot_spawn_egg",
+  "icon": "plushables:tiger_plushable",
   "impact": 3
 }
