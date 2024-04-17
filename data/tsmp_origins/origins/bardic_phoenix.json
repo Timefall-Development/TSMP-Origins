@@ -1,5 +1,6 @@
 {
   "powers": [
+    "origins:water_vulnerability",
     "tsmp_origins:bardic_phoenix/brittle_bones",
     "tsmp_origins:bardic_phoenix/cactus_questions",
     "tsmp_origins:bardic_phoenix/cold_here",

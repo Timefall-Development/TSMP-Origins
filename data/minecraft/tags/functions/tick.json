@@ -1,6 +1,7 @@
 {
-    "values": [
-      "tsmp_origins:lich/loop",
-      "tsmp_origins:werewolf/loop"
-    ]
-  }
+  "values": [
+    "tsmp_origins:lich/loop",
+    "tsmp_origins:werewolf/loop",
+    "tsmp_origins:temporal_anomaly/loop"
+  ]
+}

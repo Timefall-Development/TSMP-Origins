@@ -1,0 +1,24 @@
+{
+	"schemaVersion":1,
+	"id":"tsmp_origins",
+	"name":"TSMP Origins",
+	"version":"1.0",
+	"description":"A collection of origins for the Timefall SMP Server",
+	"license":"Timefall Development License 1.2",
+	"icon":"icon.png",
+	"authors":[
+		"chronos_sacaria"
+	],
+	"contributors":[
+		"All the original authors (click the 'Source' button for a list)."
+	],
+	"contact":{
+		"homepage":"this is a homepage",
+		"issues":"this is an issues page",
+		"sources": "this is a sources page"
+	},
+	"depends":{
+		"minecraft":"*",
+		"origins":"*"
+	}
+}

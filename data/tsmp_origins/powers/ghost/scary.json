@@ -1,0 +1,7 @@
+{
+	"type":"origins:multiple",
+	"illager":{
+		"type":"origins:entity_group",
+		"group":"illager"
+	}
+}

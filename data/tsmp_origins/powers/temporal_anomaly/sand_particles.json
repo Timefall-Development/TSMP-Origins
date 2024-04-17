@@ -1,0 +1,35 @@
+{
+	"type":"origins:action_over_time",
+	"hidden":true,
+	"entity_action":{
+		"type":"origins:if_else",
+		"condition":{
+			"type":"origins:resource",
+			"resource":"tsmp_origins:temporal_anomaly/size_resource",
+			"comparison":"<",
+			"compare_to":1
+		},
+		"if_action":{
+			"type":"origins:execute_command",
+			"command":"particle minecraft:falling_nectar ~ ~0.5 ~ 0.125 0.125 0.125 0 3 normal"
+		},
+		"else_action":{
+			"type":"origins:if_else",
+			"condition":{
+				"type":"origins:resource",
+				"resource":"tsmp_origins:temporal_anomaly/size_resource",
+				"comparison":">",
+				"compare_to":1
+			},
+			"if_action":{
+				"type":"origins:execute_command",
+				"command":"particle minecraft:falling_nectar ~ ~2.5 ~ 0.5 0.25 0.5 0 3 normal"
+			},
+			"else_action":{
+				"type":"origins:execute_command",
+				"command":"particle minecraft:falling_nectar ~ ~1.5 ~ 0.25 0.25 0.25 0 3 normal"
+			}
+		}
+	},
+	"interval":10
+}

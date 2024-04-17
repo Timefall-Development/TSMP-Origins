@@ -1,0 +1,15 @@
+{
+    "powers": [
+      "tsmp_origins:ghost/displace",
+      "tsmp_origins:ghost/float",
+      "tsmp_origins:ghost/intangible",
+      "tsmp_origins:ghost/scary",
+      "tsmp_origins:ghost/teleport",
+      "tsmp_origins:ghost/translucent",
+      "tsmp_origins:ghost/undead",
+      "tsmp_origins:ghost/water_breathing"
+    ],
+    "icon": "minecraft:soul_sand",
+    "impact": 2
+  }
+  

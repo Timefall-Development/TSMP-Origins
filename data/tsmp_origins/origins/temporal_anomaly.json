@@ -1,0 +1,14 @@
+{
+    "powers": [
+        "origins:lay_eggs",
+        "tsmp_origins:temporal_anomaly/sand_particles",
+        "tsmp_origins:temporal_anomaly/size_change",
+        "tsmp_origins:temporal_anomaly/size_changer",
+        "tsmp_origins:temporal_anomaly/size_resource",
+        "tsmp_origins:temporal_anomaly/teleport",
+        "tsmp_origins:temporal_anomaly/warp"
+    ],
+    "icon": "minecraft:clock",
+    "impact": 3
+  }
+  
