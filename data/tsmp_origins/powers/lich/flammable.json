@@ -20,5 +20,6 @@
 			"operation":"addition",
 			"value":3
 		}
-	}
+	},
+	"hidden":true
 }

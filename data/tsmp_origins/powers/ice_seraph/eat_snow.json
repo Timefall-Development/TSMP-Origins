@@ -1,6 +1,5 @@
 {
 	"type":"origins:active_self",
-	"hidden":true,
 	"entity_action":{
 		"type":"origins:and",
 		"actions":[
@@ -14,7 +13,7 @@
 			},
 			{
 				"type":"origins:feed",
-				"food":6,
+				"food":4,
 				"saturation":0.25
 			}
 		]

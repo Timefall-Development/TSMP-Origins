@@ -1,4 +1,5 @@
 {
+	"hidden":true,
 	"type":"origins:multiple",
 	"effects":{
 		"type":"origins:stacking_status_effect",

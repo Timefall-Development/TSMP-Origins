@@ -4,5 +4,6 @@
 	"entity_action":{
 		"type":"origins:execute_command",
 		"command":"function tsmp_origins:lich/undead_ally"
-	}
+	},
+	"hidden":true
 }

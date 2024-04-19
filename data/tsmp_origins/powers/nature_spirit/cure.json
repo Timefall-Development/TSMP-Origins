@@ -21,23 +21,7 @@
 		]
 	},
 	"condition":{
-		"type":"origins:and",
-		"conditions":[
-			{
-				"type":"origins:sneaking",
-				"inverted":true
-			},
-			{
-				"type":"origins:equipped_item",
-				"equipment_slot":"offhand",
-				"item_condition":{
-					"type":"origins:ingredient",
-					"ingredient":{
-						"item":"minecraft:lodestone"
-					}
-				},
-				"inverted":true
-			}
-		]
+		"type":"origins:sneaking",
+		"inverted":true
 	}
 }

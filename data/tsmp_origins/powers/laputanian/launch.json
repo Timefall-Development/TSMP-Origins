@@ -6,11 +6,5 @@
 	},
 	"sound":"minecraft:entity.parrot.fly",
 	"speed":1,
-	"key":"key.origins.primary_active",
-	"condition":{
-		"type":"origins:resource",
-		"resource":"origins-plus-plus:shifter/shift_bar",
-		"comparison":"==",
-		"compare_to":3
-	}
+	"key":"key.origins.primary_active"
 }

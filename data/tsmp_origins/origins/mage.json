@@ -3,6 +3,7 @@
     "tsmp_origins:mage/float",
     "tsmp_origins:mage/fragile",
     "tsmp_origins:mage/no_bow",
+    "tsmp_origins:mage/starting_book",
     "tsmp_origins:mage/teleport",
     "tsmp_origins:mage/tp_to_you",
     "tsmp_origins:mage/water_loathing"

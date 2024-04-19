@@ -15,7 +15,7 @@
 			{
 				"type":"origins:feed",
 				"food":6,
-				"saturation":0.25
+				"saturation":1.25
 			}
 		]
 	},

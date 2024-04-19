@@ -8,5 +8,6 @@
 	"update_health":true,
 	"condition":{
 		"type":"origins:exposed_to_sun"
-	}
+	},
+	"hidden":true
 }
