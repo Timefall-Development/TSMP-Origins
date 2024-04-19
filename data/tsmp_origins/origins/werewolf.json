@@ -1,11 +1,22 @@
 {
     "powers": [
       "origins:carnivore",
+      "tsmp_origins:werewolf/carrion_eater",
+      "tsmp_origins:werewolf/carrion_saturation",
+      "tsmp_origins:werewolf/clumsy",
       "tsmp_origins:werewolf/consequences_crescent",
       "tsmp_origins:werewolf/consequences_gibbous",
       "tsmp_origins:werewolf/consequences_new",
       "tsmp_origins:werewolf/consequences_quarter",
-      "tsmp_origins:werewolf/consequences_werewolf_form"
+      "tsmp_origins:werewolf/consequences_werewolf_form",
+      "tsmp_origins:werewolf/exiled",
+      "tsmp_origins:werewolf/flesh_craver",
+      "tsmp_origins:werewolf/health",
+      "tsmp_origins:werewolf/hot_blooded",
+      "tsmp_origins:werewolf/nocturnal",
+      "tsmp_origins:werewolf/pounce",
+      "tsmp_origins:werewolf/ravenous"
+
     ],
     "icon": "minecraft:wolf_spawn_egg",
     "impact": 3

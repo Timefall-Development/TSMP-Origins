@@ -1,0 +1,10 @@
+{
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "minecraft:snowball",
+            "count": 16
+        }
+    ],
+    "hidden": true
+}

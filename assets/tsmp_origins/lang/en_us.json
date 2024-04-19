@@ -1,6 +1,6 @@
 {
   "container.bread.title": "The Bubbles",
-  "container.the_hammer.title": "Your Cheeks",
+  "container.hammer.title": "Your Cheeks",
   "container.mole_dwarf.title": "Your Mouth",
 
   "origin.tsmp_origins.adventurous_spirit.name": "Adventurous Spirit",
@@ -21,7 +21,7 @@
   "power.tsmp_origins.adventurous_spirit/winged.description": "You've mastered being able to adjust your body when jumping that you are able to almost fly.",
 
   "origin.tsmp_origins.bardic_phoenix.name": "Bardic Phoenix",
-  "origin.tsmp_origins.bardic_phoenix.description": "Bardic Phoenix",
+  "origin.tsmp_origins.bardic_phoenix.description": "Sharing music and tea wherever you go.",
   "power.tsmp_origins.bardic_phoenix/brittle_bones.name": "Brittle Bones",
   "power.tsmp_origins.bardic_phoenix/brittle_bones.description": "You take more damage from falling and flying into blocks.",
   "power.tsmp_origins.bardic_phoenix/cold_here.name": "Damn! It's Cold Out Here",
@@ -103,15 +103,15 @@
   "power.tsmp_origins.dwagon/winged.description": "You are able to fly without equipping an Elytra.",
 
   "origin.tsmp_origins.elephant.name": "Elephant",
-  "origin.tsmp_origins.elephant.description": "",
+  "origin.tsmp_origins.elephant.description": "Large, intelligent and strong.",
   "power.tsmp_origins.elephant/heavy_body.name": "Heavy Body",
   "power.tsmp_origins.elephant/heavy_body.description": "Due to your great weight you can barely jump a block high.",
   "power.tsmp_origins.elephant/large_appetite.name": "Large Appetite",
   "power.tsmp_origins.elephant/large_appetite.description": "Because your body now requires more energy, causing you to eat more often.",
   "power.tsmp_origins.elephant/ram.name": "Charge",
   "power.tsmp_origins.elephant/ram.description": "You're able to lunge forward at a high speed. Attacking something while lunging at it will deal extra damage and knock it into the air.",
-  "power.tsmp_origins.elephant/slowness.name": "Natural Strength",
-  "power.tsmp_origins.elephant/slowness.description": "Your draconic blood gives you extra strength.",
+  "power.tsmp_origins.elephant/slowness.name": "Naturally Slow",
+  "power.tsmp_origins.elephant/slowness.description": "Your large size results is slower, but more deliberate movements.",
   "power.tsmp_origins.elephant/tough.name": "Tough Hide",
   "power.tsmp_origins.elephant/tough.description": "Your natural bulk gives you increased health and armor.",
 
@@ -188,7 +188,7 @@
   "power.tsmp_origins.hex_witch/witchy.description": "Witches are passive to you.",
 
   "origin.tsmp_origins.ice_seraph.name": "Ice Seraph",
-  "origin.tsmp_origins.ice_seraph.description": "Borne from the frozen snow, itself.",
+  "origin.tsmp_origins.ice_seraph.description": "Born from the frozen snow, itself.",
   "power.tsmp_origins.ice_seraph/cold_adapted_hot_biomes.name": "Cold Adapted",
   "power.tsmp_origins.ice_seraph/cold_adapted_hot_biomes.description": "Being created from snow, your body doesn't like warm environments making you loose hunger faster when in warm biomes like Deserts or the Nether.",
   "power.tsmp_origins.ice_seraph/cold_nap.name": "Cold Nap",
@@ -271,6 +271,8 @@
   "power.tsmp_origins.mole_dwarf/knowing.description": "You know just what to look for when digging around underground. This allows you to find treasures that others would have just passed right over.",
   "power.tsmp_origins.mole_dwarf/long_jump.name": "Long Jump",
   "power.tsmp_origins.mole_dwarf/long_jump.description": "All that digging has built some mighty strong legs. You can jump pretty far while sprinting.",
+  "power.tsmp_origins.mole_dwarf/no_elytra.name": "Terra Firma",
+  "power.tsmp_origins.mole_dwarf/no_elytra.description": "You prefer to keep your feel planted firmly on the ground; if possible, below the ground. If you were supposed to fly, you'd have wings.",
   "power.tsmp_origins.mole_dwarf/pocket.name": "Mouth Storage",
   "power.tsmp_origins.mole_dwarf/pocket.description": "You can store precious items in your mouth that do not drop on death.",
   "power.tsmp_origins.mole_dwarf/shroom_eater.name": "Shroom Eater",
@@ -296,7 +298,7 @@
   "power.tsmp_origins.nature_spirit/translucent.description": "Being a spirit, your skin is slightly transparent. You also have only 9 hearts. You also are unable to swim, as you lack a body to do so. At least you don't have to worry about drowning.",
 
   "origin.tsmp_origins.priest.name": "Priest",
-  "origin.tsmp_origins.priest.description": "You are the embodiment of nature.",
+  "origin.tsmp_origins.priest.description": "Your desire to heal led to you becoming a priest.",
   "power.tsmp_origins.priest/clear.name": "Magic Salve",
   "power.tsmp_origins.priest/clear.description": "You can remove status effects from entities within 12 blocks.",
   "power.tsmp_origins.priest/cure.name": "Cure",
@@ -322,7 +324,7 @@
   "power.tsmp_origins.temporal_anomaly/warp.description": "You are able to stop time for various projectiles. You can only keep this up for a short period of time.",
 
   "origin.tsmp_origins.tijger.name": "Tijger",
-  "origin.tsmp_origins.tijger.description": "Tijger noises increase!",
+  "origin.tsmp_origins.tijger.description": "Tijger noises intensify!",
   "power.tsmp_origins.tijger/acrobatics.name": "Acrobatics",
   "power.tsmp_origins.tijger/acrobatics.description": "You never take fall damage, no matter from which height you fall.",
   "power.tsmp_origins.tijger/dislike_of_water.name": "Dislike of Water",
@@ -335,8 +337,8 @@
   "power.tsmp_origins.tijger/nocturnal.description": "You can see slightly in the dark when not in water.",
   "power.tsmp_origins.tijger/pounce.name": "Pounce",
   "power.tsmp_origins.tijger/pounce.description": "You can jump forward into the direction you are looking at.",
-  "power.tsmp_origins.tijger/roar.name": "I'm a Priest, not an Warrior, man!",
-  "power.tsmp_origins.tijger/roar.description": "Being the empress of felines, you are able to let out a terrifying roar causing blindness and weakness to those within 7 blocks.",
+  "power.tsmp_origins.tijger/roar_action.name": "Imperial Roar",
+  "power.tsmp_origins.tijger/roar_action.description": "Being the empress of felines, you are able to let out a terrifying roar causing blindness and weakness to those within 7 blocks.",
   "power.tsmp_origins.tijger/sharp_claws.name": "Sharp Claws",
   "power.tsmp_origins.tijger/sharp_claws.description": "Your claws and agility allow you to scale and climb blocks.",
 
@@ -364,7 +366,7 @@
   "power.tsmp_origins.werewolf/ravenous.description": "Your hunger grows. You are thrice as hungry.",
 
   "origin.tsmp_origins.wither_wight.name": "Wither Wight",
-  "origin.tsmp_origins.wither_wight.description": "You've grown tired of the war between the Withers and the Piglins. 'What else is out there?'\\, you wonder.",
+  "origin.tsmp_origins.wither_wight.description": "You've grown tired of the war between the Withers and the Piglins. 'What else is out there?', you wonder.",
   "power.tsmp_origins.wither_wight/exiled.name": "Exiled",
   "power.tsmp_origins.wither_wight/exiled.description": "Villagers prices are heightened and iron golems attack you on sight.",
   "power.tsmp_origins.wither_wight/fire_immune.name": "Fire Immunity",
