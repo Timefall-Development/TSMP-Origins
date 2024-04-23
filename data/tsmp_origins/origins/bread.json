@@ -11,7 +11,7 @@
       "tsmp_origins:bread/the_bubbles",
       "tsmp_origins:bread/unwieldy"
     ],
-    "icon": "minecraft:bread",
+    "icon": "cards_of_timefall:card_bread",
     "impact": 3
   }
   

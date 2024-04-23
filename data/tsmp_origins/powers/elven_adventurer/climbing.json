@@ -2,7 +2,7 @@
 	"type":"origins:multiple",
 	"toggle":{
 		"type":"origins:toggle",
-		"key":"key.saveToolbarActivator"
+		"key":"key.origins.ternary_active"
 	},
 	"climbing":{
 		"type":"origins:climbing",

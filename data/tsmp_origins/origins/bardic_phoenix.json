@@ -1,18 +1,19 @@
 {
   "powers": [
     "origins:water_vulnerability",
+    "origins:flame_particles",
+    "origins:fire_immunity",
     "tsmp_origins:bardic_phoenix/brittle_bones",
     "tsmp_origins:bardic_phoenix/cactus_questions",
     "tsmp_origins:bardic_phoenix/cold_here",
     "tsmp_origins:bardic_phoenix/dislike_of_water",
     "tsmp_origins:bardic_phoenix/heat_adept",
     "tsmp_origins:bardic_phoenix/light_armor",
-    "tsmp_origins:bardic_phoenix/fire_particles",
     "tsmp_origins:bardic_phoenix/second",
     "tsmp_origins:bardic_phoenix/tea_fan",
     "tsmp_origins:bardic_phoenix/why",
     "tsmp_origins:bardic_phoenix/winged"
   ],
-  "icon": "mythicmounts:firebird_feather3",
+  "icon": "cards_of_timefall:card_phoenix",
   "impact": 3
 }

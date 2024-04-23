@@ -1,5 +1,6 @@
 {
   "powers": [
+    "origins:light_armor",
     "tsmp_origins:priest/clear",
     "tsmp_origins:priest/cure",
     "tsmp_origins:priest/fragile",

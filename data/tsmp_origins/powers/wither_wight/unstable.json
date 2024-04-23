@@ -128,14 +128,6 @@
 			"value":1
 		}
 	},
-	"m18":{
-		"type":"origins:modify_status_effect_amplifier",
-		"status_effect":"minecraft:regeneration",
-		"modifier":{
-			"operation":"addition",
-			"value":1
-		}
-	},
 	"m19":{
 		"type":"origins:modify_status_effect_amplifier",
 		"status_effect":"minecraft:resistance",
@@ -155,22 +147,6 @@
 	"m21":{
 		"type":"origins:modify_status_effect_amplifier",
 		"status_effect":"minecraft:invisibility",
-		"modifier":{
-			"operation":"addition",
-			"value":1
-		}
-	},
-	"m22":{
-		"type":"origins:modify_status_effect_amplifier",
-		"status_effect":"minecraft:health_boost",
-		"modifier":{
-			"operation":"addition",
-			"value":1
-		}
-	},
-	"m23":{
-		"type":"origins:modify_status_effect_amplifier",
-		"status_effect":"minecraft:absorption",
 		"modifier":{
 			"operation":"addition",
 			"value":1

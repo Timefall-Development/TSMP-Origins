@@ -1,10 +1,11 @@
 {
   "powers": [
+    "origins:fire_immunity",
     "tsmp_origins:wither_wight/exiled",
-    "tsmp_origins:wither_wight/fire_immune",
     "tsmp_origins:wither_wight/home",
     "tsmp_origins:wither_wight/immune",
     "tsmp_origins:wither_wight/sink_in_water",
+    "tsmp_origins:wither_wight/sun_weakness",
     "tsmp_origins:wither_wight/undead",
     "tsmp_origins:wither_wight/unstable",
     "tsmp_origins:wither_wight/withered_hands"

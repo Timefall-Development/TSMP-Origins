@@ -11,7 +11,7 @@
 				"effect":"minecraft:weakness",
 				"show_particles":false,
 				"show_icon":false,
-				"amplifier":2
+				"amplifier":1
 			}
 		]
 	},

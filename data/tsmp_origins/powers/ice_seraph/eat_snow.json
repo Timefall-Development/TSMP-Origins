@@ -20,13 +20,22 @@
 	},
 	"key":"key.use",
 	"condition":{
-		"type":"origins:equipped_item",
-		"equipment_slot":"mainhand",
-		"item_condition":{
-			"type":"origins:ingredient",
-			"ingredient":{
-				"item":"minecraft:snowball"
+		"type":"origins:and",
+		"conditions":[
+			{
+				"type": "origins:equipped_item",
+				"equipment_slot": "mainhand",
+				"item_condition": {
+					"type": "origins:ingredient",
+					"ingredient": {
+						"item": "minecraft:snowball"
+					}
+				}
+			},
+			{
+				"type": "origins:sneaking",
+				"inverted": true
 			}
-		}
+		]
 	}
 }

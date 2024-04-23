@@ -10,5 +10,5 @@
 		"type":"origins:sneaking",
 		"inverted":true
 	},
-	"key":"key.origins.secondary_active"
+	"key":"key.origins.primary_active"
 }

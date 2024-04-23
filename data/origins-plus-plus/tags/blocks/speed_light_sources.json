@@ -1,0 +1,98 @@
+{
+  "replace": false,
+  "values":[
+    "minecraft:end_rod",
+    "minecraft:glowstone",
+    "minecraft:shroomlight",
+    "minecraft:torch",
+    "minecraft:wall_torch",
+    {
+      "id": "froglegs:ochre_froglight_stairs",
+      "required":false
+    },
+    {
+      "id": "froglegs:ochre_froglight_slabs",
+      "required": false
+    },
+    {
+      "id": "froglegs:ochre_froglight_bricks",
+      "required": false
+    },
+    {
+      "id": "froglegs:ochre_froglight_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "froglegs:ochre_froglight_brick_slab",
+      "required": false
+    },
+    {
+      "id": "froglegs:smooth_ochre_froglight",
+      "required": false
+    },
+    {
+      "id": "froglegs:smooth_ochre_froglight_slab",
+      "required": false
+    },
+    {
+      "id": "froglegs:verdant_froglight_stairs",
+      "required": false
+    },
+    {
+      "id": "froglegs:verdant_froglight_slabs",
+      "required": false
+    },
+    {
+      "id": "froglegs:verdant_froglight_bricks",
+      "required": false
+    },
+    {
+      "id": "froglegs:verdant_froglight_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "froglegs:verdant_froglight_brick_slab",
+      "required": false
+    },
+    {
+      "id": "froglegs:smooth_verdant_froglight",
+      "required": false
+    },
+    {
+      "id": "froglegs:smooth_verdant_froglight_slab",
+      "required": false
+    },
+    {
+      "id": "froglegs:pearlescent_froglight_stairs",
+      "required": false
+    },
+    {
+      "id": "froglegs:pearlescent_froglight_slabs",
+      "required": false
+    },
+    {
+      "id": "froglegs:pearlescent_froglight_bricks",
+      "required": false
+    },
+    {
+      "id": "froglegs:pearlescent_froglight_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "froglegs:pearlescent_froglight_brick_slab",
+      "required": false
+    },
+    {
+      "id": "froglegs:smooth_pearlescent_froglight",
+      "required": false
+    },
+    {
+      "id": "froglegs:smooth_pearlescent_froglight_slab",
+      "required": false
+    },
+    {
+      "id": "#amethyst_imbuement:shine_lights",
+      "required": false
+    }
+  ]
+}

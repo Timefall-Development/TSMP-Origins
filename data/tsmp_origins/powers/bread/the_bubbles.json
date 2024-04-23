@@ -2,5 +2,5 @@
 	"type":"origins:inventory",
 	"title":"container.bread.title",
 	"drop_on_death":false,
-	"key":"key.origins.secondary_active"
+	"key":"key.origins.primary_active"
 }

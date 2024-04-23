@@ -1,9 +1,9 @@
 {
   "powers": [
     "origins:carnivore",
+    "origins:light_armor",
     "tsmp_origins:dwagon/born_in_fire",
     "tsmp_origins:dwagon/lava_breath",
-    "tsmp_origins:dwagon/light_armor",
     "tsmp_origins:dwagon/natural_strength",
     "tsmp_origins:dwagon/slow_swim",
     "tsmp_origins:dwagon/slowness_in_cold",
@@ -11,6 +11,6 @@
     "tsmp_origins:dwagon/weakness_in_cold",
     "tsmp_origins:dwagon/winged"
   ],
-  "icon": "plushables:dragon_plushable",
+  "icon": "cards_of_timefall:card_wagon",
   "impact": 3
 }

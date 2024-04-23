@@ -5,11 +5,6 @@
 	"duration_per_stack":20,
 	"effects":[
 		{
-			"effect":"minecraft:strength",
-			"show_particles":false,
-			"show_icon":false
-		},
-		{
 			"effect":"minecraft:speed",
 			"show_particles":false,
 			"show_icon":false

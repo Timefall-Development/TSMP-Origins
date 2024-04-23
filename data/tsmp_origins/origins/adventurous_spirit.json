@@ -1,14 +1,14 @@
 {
   "powers": [
+    "origins:light_armor",
+    "origins:launch_into_air",
     "tsmp_origins:adventurous_spirit/aquatic",
-    "tsmp_origins:adventurous_spirit/light_armor",
     "tsmp_origins:adventurous_spirit/melee",
-    "tsmp_origins:adventurous_spirit/night_vision",
     "tsmp_origins:adventurous_spirit/no_fall_damage",
     "tsmp_origins:adventurous_spirit/runaway",
     "tsmp_origins:adventurous_spirit/weak",
     "tsmp_origins:adventurous_spirit/winged"
   ],
-  "icon": "naturescompass:naturescompass",
+  "icon": "cards_of_timefall:card_eternal",
   "impact": 3
 }

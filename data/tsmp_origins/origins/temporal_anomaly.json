@@ -8,7 +8,7 @@
         "tsmp_origins:temporal_anomaly/teleport",
         "tsmp_origins:temporal_anomaly/warp"
     ],
-    "icon": "minecraft:clock",
+    "icon": "cards_of_timefall:card_chronos",
     "impact": 3
   }
   

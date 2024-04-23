@@ -9,7 +9,7 @@
       "tsmp_origins:ghost/undead",
       "tsmp_origins:ghost/water_breathing"
     ],
-    "icon": "minecraft:soul_sand",
+    "icon": "cards_of_timefall:card_ghost",
     "impact": 3
   }
   

@@ -1,6 +1,7 @@
 {
   "powers": [
     "origins:carnivore",
+    "origins:cat_vision",
     "origins:velvet_paws",
     "origins:scare_creepers",
     "origins:nine_lives",
@@ -11,6 +12,6 @@
     "tsmp_origins:tijger/roar_action",
     "tsmp_origins:tijger/sharp_claws"
   ],
-  "icon": "plushables:tiger_plushable",
+  "icon": "cards_of_timefall:card_tijger",
   "impact": 3
 }

@@ -18,7 +18,7 @@
 				},
 				{
 					"type":"origins:execute_command",
-					"command":"function origins-plus-plus:wizard/totem"
+					"command":"function tsmp_origins:lich/totem"
 				},
 				{
 					"type":"origins:trigger_cooldown",

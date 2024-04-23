@@ -1,5 +1,6 @@
 {
   "powers": [
+    "origins:light_armor",
     "tsmp_origins:mage/float",
     "tsmp_origins:mage/fragile",
     "tsmp_origins:mage/no_bow",

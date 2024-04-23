@@ -8,11 +8,6 @@
 			"effect":"minecraft:slow_falling",
 			"show_particles":false,
 			"show_icon":false
-		},
-		{
-			"effect":"minecraft:speed",
-			"show_particles":false,
-			"show_icon":false
 		}
 	]
 }

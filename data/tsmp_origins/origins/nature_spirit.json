@@ -1,5 +1,6 @@
 {
   "powers": [
+    "origins:light_armor",
     "tsmp_origins:nature_spirit/cure",
     "tsmp_origins:nature_spirit/eternity",
     "tsmp_origins:nature_spirit/floral_teaming",
@@ -29,6 +30,6 @@
     "tsmp_origins:nature_spirit/water_breathing",
     "tsmp_origins:nature_spirit/water_falling"
   ],
-  "icon": "cottage-craft:echo_fairymoss",
+  "icon": "cards_of_timefall:card_kudos",
   "impact": 3
 }

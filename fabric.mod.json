@@ -2,7 +2,7 @@
 	"schemaVersion":1,
 	"id":"tsmp_origins",
 	"name":"TSMP Origins",
-	"version":"1.0",
+	"version":"1.3.0",
 	"description":"A collection of origins for the Timefall SMP Server",
 	"license":"Timefall Development License 1.2",
 	"icon":"icon.png",

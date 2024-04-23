@@ -12,12 +12,13 @@
     "tsmp_origins:lich/pure_steel_no_gold",
     "tsmp_origins:lich/pure_steel_no_iron",
     "tsmp_origins:lich/second",
+    "tsmp_origins:lich/soul_eater",
     "tsmp_origins:lich/sun_weakness",
     "tsmp_origins:lich/undead",
     "tsmp_origins:lich/water_breathing",
     "tsmp_origins:lich/water_falling",
     "tsmp_origins:lich/why"
   ],
-  "icon": "soulsweapons:iron_skull",
+  "icon": "cards_of_timefall:card_zarra",
   "impact": 3
 }

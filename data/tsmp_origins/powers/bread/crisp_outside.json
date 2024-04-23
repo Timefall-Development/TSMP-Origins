@@ -1,11 +1,8 @@
 {
-	"type":"origins:multiple",
-	"knockback":{
-		"type":"origins:attribute",
-		"modifier":{
-			"attribute":"minecraft:generic.armor",
-			"operation":"multiply_total",
-			"value":1.1
-		}
+	"type":"origins:attribute",
+	"modifier":{
+		"attribute":"minecraft:generic.armor",
+		"operation":"addition",
+		"value":2
 	}
 }

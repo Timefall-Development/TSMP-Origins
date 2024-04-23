@@ -1,4 +1,5 @@
 {
+  "replace": false,
   "values":[
     "minecraft:rotten_flesh",
     "minecraft:cod",
@@ -384,6 +385,26 @@
       "required": false
     },
     {
+      "id": "ends_delight:dragon_leg_with_sauce_block",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_meat_stew_block",
+      "required": false
+    },
+    {
+      "id": "ends_delight:end_barbecue_stick",
+      "required": false
+    },
+    {
+      "id": "ends_delight:ender_congee",
+      "required": false
+    },
+    {
+      "id": "ends_delight:grilled_shulker_block",
+      "required": false
+    },
+    {
       "id": "ends_delight:raw_dragon_meat",
       "required": false
     },
@@ -405,6 +426,406 @@
     },
     {
       "id": "ends_delight:shulker_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:roasted_dragon_steak",
+      "required": false
+    },
+    {
+      "id": "ends_delight:roasted_shulker_meat_slice",
+      "required": false
+    },
+    {
+      "id": "ends_delight:shulker_meat_slice",
+      "required": false
+    },
+    {
+      "id": "ends_delight:stir_fried_shulker_meat",
+      "required": false
+    },
+    {
+      "id": "ends_delight:stuffed_rice_cake",
+      "required": false
+    },
+    {
+      "id": "ends_delight:dragon_leg",
+      "required": false
+    },
+    {
+      "id": "ends_delight:raw_dragon_meat",
+      "required": false
+    },
+    {
+      "id": "expandeddelight:asparagus_and_bacon_cheesy",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:baked_tentacle_on_a_stick",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:cabbage_wrapped_elder_guardian",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:cooked_elder_guardian_slice",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:cooked_guardian_tail",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:cooked_stuffed_cod",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:seagrass_salad",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:stuffed_cod",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:tentacle_on_a_stick",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:raw_donkey_meat",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:cooked_donkey_meat",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:beef_noodles",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:bobo_chicken",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:fish_and_chips",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:paper_wrapped_fish",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:phantom_dumplings",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:phantom_puff",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:spicy_strips",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:cooked_guardian_tail",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:cooked_stuffed_cod",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:stuffed_cod",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:tentacle_on_a_stick",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:donkey_burger",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:green_tongue",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:plate_of_fried_dumpling",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:quiche_lorraine",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:quiche_lorraine_from_slice",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:raw_cabbage_bobo_chicken",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:raw_chicken_bobo_chicken",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:raw_fried_dumpling",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:raw_potato_bobo_chicken",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:stargazy_pie",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:stargazy_pie_from_slice",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:fried_chicken_chip",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:fried_fish",
+      "required": false
+    },
+    {
+      "id": "casualness_delight:tonkatsu",
+      "required": false
+    },
+    {
+      "id": "moredelight:cooked_diced_potatoes_with_beef",
+      "required": false
+    },
+    {
+      "id": "moredelight:cooked_diced_potatoes_with_chicken_cuts",
+      "required": false
+    },
+    {
+      "id": "moredelight:cooked_diced_potatoes_with_porkchop",
+      "required": false
+    },
+    {
+      "id": "moredelight:cooked_rice_with_milk_cream_and_beef",
+      "required": false
+    },
+    {
+      "id": "moredelight:pasta_with_milk_cream_and_ham",
+      "required": false
+    },
+    {
+      "id": "moredelight:bacon_sandwich",
+      "required": false
+    },
+    {
+      "id": "moredelight:egg_with_bacon_sandwich",
+      "required": false
+    },
+    {
+      "id": "moredelight:steak_with_egg_sandwich",
+      "required": false
+    },
+    {
+      "id": "moredelight:chicken_salad",
+      "required": false
+    },
+    {
+      "id": "moredelight:chicken_sandwich_with_egg_and_tomato",
+      "required": false
+    },
+    {
+      "id": "moredelight:egg_with_bacon_sandwich",
+      "required": false
+    },
+    {
+      "id": "moredelight:steak_with_egg_sandwich",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:calamari",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:cooked_calamari",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:cooked_squid",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:raw_calamari",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:raw_squid",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:spicy_curry",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:glow_squid",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:beef_burrito",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:calamari_roll",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:chicken_roll",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:chicken_taco",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:exotic_roll_medley",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:fish_taco",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:mutton_sandwich",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:pork_wrap",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:pufferfish_roll",
+      "required": false
+    },
+    {
+      "id": "culturaldelights:tropical_roll",
+      "required": false
+    },
+    {
+      "id": "cakedelight:stewed_beef_with_tomato",
+      "required": false
+    },
+    {
+      "id": "bakingdelight:braised_shrimp_ball",
+      "required": false
+    },
+    {
+      "id": "bakingdelight:crystal_dumpling",
+      "required": false
+    },
+    {
+      "id": "bakingdelight:grilled_starch_sausage",
+      "required": false
+    },
+    {
+      "id": "bakingdelight:little_octopus_sausage",
+      "required": false
+    },
+    {
+      "id": "bakingdelight:sectioned_sausage",
+      "required": false
+    },
+    {
+      "id": "bakingdelight:sausage",
+      "required": false
+    },
+    {
+      "id": "bakingdelight:starch_sausage",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:magma_gelatin",
+      "required":false
+    },
+    {
+      "id": "bakingdelight:prawn",
+      "required": false
+    },
+    {
+      "id": "bakingdelight:cuttlebone",
+      "required": false
+    },
+    {
+      "id": "bakingdelight:glow_cuttlebone",
+      "required": false
+    },
+    {
+      "id": "croptopia:taco",
+      "required": false
+    },
+    {
+      "id": "croptopia:cashew_chicken",
+      "required": false
+    },
+    {
+      "id": "croptopia:egg_roll",
+      "required": false
+    },
+    {
+      "id": "croptopia:fajitas",
+      "required": false
+    },
+    {
+      "id": "croptopia:enchilada",
+      "required": false
+    },
+    {
+      "id": "croptopia:tamales",
+      "required": false
+    },
+    {
+      "id": "croptopia:stuffed_poblanos",
+      "required": false
+    },
+    {
+      "id": "croptopia:quesadilla",
+      "required": false
+    },
+    {
+      "id": "croptopia:cornish_pasty",
+      "required": false
+    },
+    {
+      "id": "croptopia:potato_soup",
+      "required": false
+    },
+    {
+      "id": "croptopia:cabbage_roll",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:raw_stuffed_hoglin",
+      "required": false
+    },
+    {
+      "id": "nethersdelight:stuffed_hoglin",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:guardian",
+      "required": false
+    },
+    {
+      "id": "oceansdelight:guardian_soup",
+      "required": false
+    },
+    {
+      "id": "ubesdelight:fish_sauce_bottle",
       "required": false
     },
     {
