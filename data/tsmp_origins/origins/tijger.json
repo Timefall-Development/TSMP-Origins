@@ -9,9 +9,10 @@
     "tsmp_origins:tijger/dislike_of_water",
     "tsmp_origins:tijger/jump",
     "tsmp_origins:tijger/night_vision",
+    "tsmp_origins:tijger/pounce",
     "tsmp_origins:tijger/roar_action",
     "tsmp_origins:tijger/sharp_claws"
   ],
-  "icon": "cards_of_timefall:card_tijger",
+  "icon": "cards_of_timefall:card_mtijger",
   "impact": 3
 }

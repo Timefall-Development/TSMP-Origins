@@ -1,6 +1,6 @@
 {
 	"type":"origins:active_self",
-	"key":"key.origins.ternary_active",
+	"key":"key.origins.primary_active",
 	"cooldown":120,
 	"entity_action":{
 		"type":"origins:and",
@@ -17,21 +17,6 @@
 				"fluid_handling":"none",
 				"command_at_hit":"function origins-plus-plus:end-mage/teleport",
 				"command_along_ray_only_on_hit":true
-			}
-		]
-	},
-	"condition":{
-		"type":"origins:and",
-		"conditions":[
-			{
-				"type":"origins:equipped_item",
-				"equipment_slot":"offhand",
-				"item_condition":{
-					"type":"origins:ingredient",
-					"ingredient":{
-						"item":"minecraft:air"
-					}
-				}
 			}
 		]
 	}

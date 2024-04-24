@@ -7,7 +7,9 @@
     "tsmp_origins:priest/illumine",
     "tsmp_origins:priest/light_affinity",
     "tsmp_origins:priest/melee",
-    "tsmp_origins:priest/nether"
+    "tsmp_origins:priest/nether",
+    "tsmp_origins:priest/resource",
+    "tsmp_origins:priest/resource_change"
   ],
   "icon": "paladins:priest_spell_book",
   "impact": 3
