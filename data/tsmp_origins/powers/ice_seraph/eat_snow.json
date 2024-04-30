@@ -18,7 +18,7 @@
 			}
 		]
 	},
-	"key":"key.use",
+	"key":"key.origins.ternary_active",
 	"condition":{
 		"type":"origins:and",
 		"conditions":[

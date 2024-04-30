@@ -1,6 +1,5 @@
 {
   "powers": [
-    "origins:carnivore",
     "origins:cat_vision",
     "origins:velvet_paws",
     "origins:scare_creepers",
@@ -9,6 +8,7 @@
     "tsmp_origins:tijger/dislike_of_water",
     "tsmp_origins:tijger/jump",
     "tsmp_origins:tijger/night_vision",
+    "tsmp_origins:tijger/obligant_carnivore",
     "tsmp_origins:tijger/pounce",
     "tsmp_origins:tijger/roar_action",
     "tsmp_origins:tijger/sharp_claws"

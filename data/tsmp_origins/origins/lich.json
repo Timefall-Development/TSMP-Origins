@@ -17,7 +17,8 @@
     "tsmp_origins:lich/undead",
     "tsmp_origins:lich/water_breathing",
     "tsmp_origins:lich/water_falling",
-    "tsmp_origins:lich/why"
+    "tsmp_origins:lich/why",
+    "tsmp_origins:lich/why2"
   ],
   "icon": "cards_of_timefall:card_zarra",
   "impact": 3

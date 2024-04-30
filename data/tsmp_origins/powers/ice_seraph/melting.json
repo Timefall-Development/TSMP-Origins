@@ -1,5 +1,5 @@
 {
-	"type":"origins:attribute",
+	"type":"origins:conditioned_attribute",
 	"modifier":{
 		"attribute":"minecraft:generic.max_health",
 		"operation":"addition",
@@ -12,7 +12,7 @@
 		"condition":{
 			"type":"origins:temperature",
 			"comparison":">=",
-			"compare_to":1.9
+			"compare_to":2
 		}
 	}
 }

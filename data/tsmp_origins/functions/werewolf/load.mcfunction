@@ -1,2 +1,1 @@
-team add werewolf
-team add werewolfable
+transformation set @s bewitchment:werewolf

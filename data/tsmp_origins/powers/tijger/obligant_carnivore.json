@@ -1,0 +1,12 @@
+{
+  "type": "origins:modify_food",
+  "item_condition": {
+    "inverted": true,
+    "type": "origins:meat"
+  },
+  "entity_action": {
+    "type": "origins:damage",
+    "amount": 4,
+    "damage_type": "unblockable"
+  }
+}

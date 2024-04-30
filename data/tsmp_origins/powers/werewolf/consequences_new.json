@@ -1,11 +1,20 @@
 {
 	"hidden":true,
-	"type":"origins:action_over_time",
-	"entity_action":{
-		"type":"origins:execute_command",
-		"command":"function tsmp_origins:werewolf/transform_werewolf2human"
+	"type":"origins:multiple",
+	"effects":{
+		"type":"origins:stacking_status_effect",
+		"min_stacks":0,
+		"max_stacks":1,
+		"duration_per_stack":20,
+		"effects":[
+			{
+				"effect":"minecraft:weakness",
+				"show_particles":false,
+				"show_icon":false,
+				"amplifier":1
+			}
+		]
 	},
-	"interval": 20,
 	"condition":{
 		"type":"origins:and",
 		"conditions": [
@@ -17,7 +26,6 @@
 				"type":"origins:predicate",
 				"predicate":"tsmp_origins:is_new_moon"
 			}
-				
 		]
 	}
 }
