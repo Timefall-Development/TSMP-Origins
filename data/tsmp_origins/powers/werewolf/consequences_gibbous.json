@@ -1,20 +1,17 @@
 {
 	"hidden":true,
-	"type":"origins:multiple",
-	"effects":{
-		"type":"origins:stacking_status_effect",
-		"min_stacks":0,
-		"max_stacks":1,
-		"duration_per_stack":20,
-		"effects":[
-			{
-				"effect":"minecraft:weakness",
-				"show_particles":false,
-				"show_icon":false,
-				"amplifier":0
-			}
-		]
-	},
+	"type":"origins:stacking_status_effect",
+	"min_stacks":0,
+	"max_stacks":1,
+	"duration_per_stack":20,
+	"effects":[
+		{
+			"effect":"minecraft:weakness",
+			"show_particles":false,
+			"show_icon":false,
+			"amplifier":0
+		}
+	],
 	"condition":{
 		"type":"origins:and",
 		"conditions": [
@@ -27,11 +24,11 @@
 				"conditions": [
 					{
 						"type":"origins:predicate",
-						"predicate":"tsmp_origins:is_waning_gibbous"
+						"predicate":"tsmp_origins:is_waning_crescent"
 					},
 					{
 						"type":"origins:predicate",
-						"predicate":"tsmp_origins:is_waxing_gibbous"
+						"predicate":"tsmp_origins:is_waxing_crescent"
 					}
 				]
 			}
