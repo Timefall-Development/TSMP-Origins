@@ -8,13 +8,13 @@
 			"effect":"minecraft:slowness",
 			"show_particles":false,
 			"show_icon":false,
-			"amplifier":1
+			"amplifier":0
 		},
 		{
 			"effect":"minecraft:weakness",
 			"show_particles":false,
 			"show_icon":false,
-			"amplifier":1
+			"amplifier":0
 		}
 	],
 	"condition":{
