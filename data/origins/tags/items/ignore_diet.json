@@ -6,7 +6,10 @@
     "minecraft:golden_apple",
     "minecraft:honey_bottle",
     "minecraft:suspicious_stew",
-
+	{
+      "id":"amethyst_imbuement:dazzling_melon_slice",
+      "required":false
+    },
     "#origins-plus-plus-modded-support:ignore_diet"
   ]
 }
