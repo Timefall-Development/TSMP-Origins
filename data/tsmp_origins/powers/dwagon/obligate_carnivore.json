@@ -7,6 +7,6 @@
   "entity_action": {
     "type": "origins:damage",
     "amount": 4,
-    "damage_type": "unblockable"
+    "damage_type": "minecraft:generic"
   }
 }
