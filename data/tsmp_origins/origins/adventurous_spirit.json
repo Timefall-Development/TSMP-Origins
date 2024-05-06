@@ -1,6 +1,6 @@
 {
   "powers": [
-    "origins:light_armor",
+    "tsmp_origins:adventurous_spirit/light_armor",
     "origins:launch_into_air",
     "tsmp_origins:adventurous_spirit/aquatic",
     "tsmp_origins:adventurous_spirit/melee",

@@ -1,6 +1,6 @@
 {
   "powers": [
-    "origins:light_armor",
+    "tsmp_origins:dwagon/light_armor",
     "tsmp_origins:dwagon/born_in_fire",
     "tsmp_origins:dwagon/lava_breath",
     "tsmp_origins:dwagon/natural_strength",

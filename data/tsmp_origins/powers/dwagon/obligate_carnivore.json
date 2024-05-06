@@ -2,7 +2,10 @@
   "type": "origins:modify_food",
   "item_condition": {
     "inverted": true,
-    "type": "origins:meat"
+    "type": "origins:ingredient",
+    "ingredient": {
+      "tag": "origins:meat"
+    }
   },
   "entity_action": {
     "type": "origins:damage",
